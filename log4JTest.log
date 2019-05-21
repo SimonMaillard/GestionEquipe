@@ -1,0 +1,59 @@
+2019-05-17 10:57:57 ERROR UserService:30 - [Ljava.lang.StackTraceElement;@26014ee7
+2019-05-17 11:10:51 ERROR UserService:30 - [Ljava.lang.StackTraceElement;@18e11271
+2019-05-17 11:14:20 ERROR UserService:30 - [Ljava.lang.StackTraceElement;@7892a5cf
+2019-05-17 11:15:59 ERROR UserService:30 - [Ljava.lang.StackTraceElement;@5d364bdb
+2019-05-17 11:54:47 ERROR UserService:31 - [Ljava.lang.StackTraceElement;@78b66e28
+2019-05-17 12:07:55 ERROR UserService:96 - [Ljava.lang.StackTraceElement;@4487fdd4
+2019-05-17 12:08:34 ERROR UserService:96 - [Ljava.lang.StackTraceElement;@5a65ded2
+2019-05-17 12:12:07 ERROR UserService:96 - [Ljava.lang.StackTraceElement;@7d0a957d
+2019-05-17 12:13:10 ERROR UserService:96 - [Ljava.lang.StackTraceElement;@2570db18
+2019-05-17 12:14:51 ERROR UserService:96 - [Ljava.lang.StackTraceElement;@dadba9
+2019-05-17 12:15:23 ERROR UserService:96 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-17 14:45:07 ERROR UserService:99 - No class com.fr.adaming.entity.User entity with id 150 exists!
+2019-05-17 15:10:02 ERROR UserService:68 - No value present
+2019-05-20 12:52:58 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 12:52:58 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 12:54:23 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 12:54:23 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 12:55:47 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 12:58:29 ERROR UserService:69 - No value present
+2019-05-20 14:19:36 ERROR UserService:69 - No value present
+2019-05-20 14:23:26 ERROR UserService:69 - No value present
+2019-05-20 14:29:15 ERROR UserService:69 - No value present
+2019-05-20 14:30:36 ERROR UserService:69 - No value present
+2019-05-20 14:39:53 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:39:53 ERROR UserService:69 - No value present
+2019-05-20 14:41:34 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:41:34 ERROR UserService:69 - No value present
+2019-05-20 14:42:00 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:42:00 ERROR UserService:69 - No value present
+2019-05-20 14:45:17 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:45:17 ERROR UserService:69 - No value present
+2019-05-20 14:48:10 ERROR UserService:70 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:48:10 ERROR UserService:70 - No value present
+2019-05-20 14:50:06 ERROR UserService:70 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:50:06 ERROR UserService:70 - No value present
+2019-05-20 14:50:54 ERROR UserService:70 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:50:54 ERROR UserService:70 - No value present
+2019-05-20 14:52:35 ERROR UserService:70 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 14:52:35 ERROR UserService:70 - No value present
+2019-05-20 15:06:09 ERROR UserService:69 - The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+2019-05-20 15:06:09 ERROR UserService:69 - No value present
+2019-05-20 15:06:53 ERROR UserService:69 - No value present
+2019-05-20 15:07:55 ERROR UserService:69 - No value present
+2019-05-20 15:09:50 ERROR UserService:69 - No value present
+2019-05-20 15:10:38 ERROR UserService:69 - No value present
+2019-05-20 15:11:46 ERROR UserService:69 - No value present
+2019-05-20 16:06:47 ERROR EquipeService:29 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2019-05-20 16:25:29 ERROR EquipeService:29 - could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2019-05-21 10:00:21 ERROR UserService:69 - No value present
+2019-05-21 10:10:31 ERROR UserService:69 - No value present
+2019-05-21 10:14:19 ERROR UserService:69 - No value present
+2019-05-21 10:15:54 ERROR UserService:69 - No value present
+2019-05-21 10:18:12 ERROR UserService:69 - No value present
+2019-05-21 10:42:56 ERROR UserService:69 - No value present
+2019-05-21 10:44:51 ERROR UserService:69 - No value present
+2019-05-21 10:46:33 ERROR UserService:69 - No value present
+2019-05-21 10:47:34 ERROR UserService:69 - No value present
+2019-05-21 10:48:04 ERROR UserService:69 - No value present
+2019-05-21 10:49:13 ERROR UserService:69 - No value present
